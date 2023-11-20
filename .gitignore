@@ -1,5 +1,4 @@
-*.pdf
-!test.pdf
+# !test.pdf
 nodemodules/
 hi.pdf
 x.pdf
